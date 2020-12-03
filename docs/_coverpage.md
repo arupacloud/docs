@@ -4,7 +4,7 @@
 
 > Arupa Cloud Nusantara.
 
-- Simple and lightweight
+- Jagoan Lokal Hosting Indonesia
 - No statically built html files
 - Multiple themes
 

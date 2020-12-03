@@ -1,4 +1,4 @@
-![logo](_media/icon.svg)
+![logo](_media/arupacolor.png)
 
 # Knowledge Base <small>4.11.6</small>
 

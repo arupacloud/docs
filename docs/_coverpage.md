@@ -1,6 +1,6 @@
 ![logo](_media/arupacolor.png)
 
-# Knowledge Base <small>4.11.6</small>
+# Knowledge Base <small></small>
 
 > Arupa Cloud Nusantara.
 

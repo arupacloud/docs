@@ -24,7 +24,7 @@
   - [Server-Side Rendering(SSR)](ssr.md)
   - [Embed Files](embed-files.md)
   
-  - Arupa Cloud Desktop
+- Arupa Cloud Desktop
 
   - [Deploy](deploy1.md)
   - [Helpers](helpers1.md)

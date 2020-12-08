@@ -6,5 +6,5 @@
 
 - Jagoan Lokal Hosting Indonesia
 
-[GitHub](https://github.com/docsifyjs/docsify/)
-[Getting Started](#docsify)
+[Main Page](https://arupa.id/)
+[Store](https://store.arupa.id/)

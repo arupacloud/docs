@@ -1,4 +1,4 @@
-![logo](_media/arupacolor.png)
+![logo](_media/arupacolorsmall.png)
 
 # Knowledge Base <small></small>
 

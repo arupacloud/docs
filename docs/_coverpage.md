@@ -1,6 +1,6 @@
 ![logo](_media/arupacolorsmall.png)
 
-# Arupa Cloud Nusantara <small></small>
+# Arupa Cloud <small></small>
 
 > Knowledge Base.
 

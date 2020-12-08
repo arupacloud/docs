@@ -1,8 +1,8 @@
 ![logo](_media/arupacolorsmall.png)
 
-# Knowledge Base <small></small>
+# Arupa Cloud Nusantara <small></small>
 
-> Arupa Cloud Nusantara.
+> Knowledge Base.
 
 - Jagoan Lokal Hosting Indonesia
 

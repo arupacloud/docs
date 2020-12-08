@@ -2,7 +2,10 @@
 
 Silahkan mengunjungi store.arupa.id lalu menuju tab Store > Arupa Backup 365 
 
-(_media/arupacolorsmall.png)
+<div align=center>
+<img width="200" src="_media/arupacolorsmall.png"/>
+</div>
+
 
 ```html
 <script>

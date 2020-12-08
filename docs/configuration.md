@@ -2,7 +2,7 @@
 
 Silahkan mengunjungi store.arupa.id lalu menuju tab Store > Arupa Backup 365 
 
-<img src='ab365buy.png'></img>
+(_media/arupacolorsmall.png)
 
 ```html
 <script>

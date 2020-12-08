@@ -5,7 +5,7 @@
   - [Custom navbar](custom-navbar.md)
   - [Cover page](cover.md)
 
-- Customization
+- Arupa Backup 365
 
   - [Configuration](configuration.md)
   - [Themes](themes.md)
@@ -14,7 +14,7 @@
   - [Markdown configuration](markdown.md)
   - [Language highlighting](language-highlight.md)
 
-- Guide
+- Arupa Object Storage 365
 
   - [Deploy](deploy.md)
   - [Helpers](helpers.md)
@@ -23,6 +23,16 @@
   - [Offline Mode(PWA)](pwa.md)
   - [Server-Side Rendering(SSR)](ssr.md)
   - [Embed Files](embed-files.md)
+  
+  - Arupa Cloud Desktop
+
+  - [Deploy](deploy1.md)
+  - [Helpers](helpers1.md)
+  - [Vue compatibility](vue1.md)
+  - [CDN](cdn1.md)
+  - [Offline Mode(PWA)](pwa1.md)
+  - [Server-Side Rendering(SSR)](ssr1.md)
+  - [Embed Files](embed-files1.md)
 
 - [Awesome docsify](awesome.md)
 - [Changelog](changelog.md)

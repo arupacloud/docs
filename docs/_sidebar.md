@@ -14,7 +14,7 @@
   - [Markdown configuration](markdown.md)
   - [Language highlighting](language-highlight.md)
 
-- Arupa Object Storage 365
+- Arupa Object Storage
 
   - [Deploy](deploy.md)
   - [Helpers](helpers.md)

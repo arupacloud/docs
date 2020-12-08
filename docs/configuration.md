@@ -1,6 +1,8 @@
-# Configuration
+# Buy Services
 
-You can configure Docsify by defining `window.$docsify` as an object:
+Silahkan mengunjungi store.arupa.id lalu menuju tab Store > Arupa Backup 365 
+
+<img src='/media/ab365buy.png'></img>
 
 ```html
 <script>

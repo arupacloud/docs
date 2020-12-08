@@ -3,7 +3,7 @@
 Silahkan mengunjungi store.arupa.id lalu menuju tab Store > Arupa Backup 365 
 
 <div align=center>
-<img width="500" src="_media/ab365buy.png"/>
+<img width="300" src="_media/ab365buy.png"/>
 </div>
 
 

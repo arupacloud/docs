@@ -36,7 +36,8 @@
 <img width="300" src="_media/AB365Buy6.png"/>
 </div>
 
-_FYI_ Jika telah memiliki akun pada arupa.id dapat memilih "Already Registered"
+
+?> _FYI_ Jika telah memiliki akun pada arupa.id dapat memilih "Already Registered"
 
 7. Setelah selesai melakukan pengisian bisa klik “Complete Order” dan akan muncul Invoice pembayaran 
 

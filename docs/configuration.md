@@ -27,7 +27,7 @@ Setelah mengisi form konfigurasi selanjutnya dapat memilih “Continue”
 Silahkan review terlebih dahulu untuk konfigurasi, Setelah sesuai bisa klik Checkout 
 
 <div align=center>
-<img width="300" src="_media/ab365buy5.png"/>
+<img width="300" src="_media/AB365Buy3.png"/>
 </div>
 
 

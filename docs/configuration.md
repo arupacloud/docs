@@ -15,13 +15,13 @@ Silahkan pilih paket yang sesuai dengan kebutuhan anda, Jika telah menemukan pak
 Selanjutnya bisa disesuikan untuk Storage dan User sesuai dengan kebutuhan dengan cara mengeser slider yang tersedia. Untuk domain dapat diisikan untuk office 365 Domain yang Anda miliki. Pada menu Add On terdapat dua pilihan extra layanan yaitu Managed Service dan Setup Installation untuk Add On ini dapat Anda pilih jika membutuhkan layanan tambahan.
 
 <div align=center>
-<img width="300" src="_media/ab365buy3.png"/>
+<img width="300" src="_media/AB365Buy3.png"/>
 </div>
 
 Setelah mengisi form konfigurasi selanjutnya dapat memilih “Continue”
 
 <div align=center>
-<img width="300" src="_media/ab365buy4.png"/>
+<img width="300" src="_media/AB365Buy4.png"/>
 </div>
 
 Silahkan review terlebih dahulu untuk konfigurasi, Setelah sesuai bisa klik Checkout 

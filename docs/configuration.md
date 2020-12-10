@@ -3,13 +3,13 @@
 Silahkan mengunjungi store.arupa.id lalu menuju tab Store > Arupa Backup 365 
 
 <div align=center>
-<img width="300" src="_media/ab365buy.png"/>
+<img width="300" src="_media/AB365Buy1.png"/>
 </div>
 
 Silahkan pilih paket yang sesuai dengan kebutuhan anda, Jika telah menemukan paket yang sesuai dengan kebutuhan Anda selanjutnya klik “Order Now”
 
 <div align=center>
-<img width="300" src="_media/ab365buy2.png"/>
+<img width="300" src="_media/AB365Buy2.png"/>
 </div>
 
 Selanjutnya bisa disesuikan untuk Storage dan User sesuai dengan kebutuhan dengan cara mengeser slider yang tersedia. Untuk domain dapat diisikan untuk office 365 Domain yang Anda miliki. Pada menu Add On terdapat dua pilihan extra layanan yaitu Managed Service dan Setup Installation untuk Add On ini dapat Anda pilih jika membutuhkan layanan tambahan.

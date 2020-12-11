@@ -18,8 +18,3 @@ SSL -
 <br>
 Domain - 
 
-## Powered By
-
-<a href="https://arupa.id" target="_blank"><img src="_media/arupablacklogo.png" width="200px"></a>
-<br>
-<a href="https://zettagrid.id" target="_blank"><img src="_media/zettagridlogo.png" width="200px"></a>

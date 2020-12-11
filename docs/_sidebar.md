@@ -7,7 +7,7 @@
 
 - Arupa Backup 365
 
-  - [Order](configuration.md)
+  - [Order](ab365-order.md)
   - [Themes](themes.md)
   - [List of Plugins](plugins.md)
   - [Write a Plugin](write-a-plugin.md)

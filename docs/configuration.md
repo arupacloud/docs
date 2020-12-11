@@ -32,6 +32,8 @@
 
 6. Selanjutnya dapat diisikan untuk informasi detail berikut 
 
+?> _FYI_ Jika telah memiliki akun pada arupa.id dapat memilih "Already Registered"
+
 <div align=center>
 <img width="300" src="_media/AB365Buy6.png"/>
 </div>
@@ -50,6 +52,8 @@
 <div align=center>
 <img width="300" src="_media/AB365Buy8.png"/>
 </div>
+
+?> _FYI_ Untuk konfirmasi pembayaran juga dapat melalui link berikut : https://store.arupa.id/submitticket.php?step=2&deptid=4
 
 9. Pada saat open Ticket pada Related Service dapat dipilih service yang dibeli sebelumnya dan pada Attachment bisa dilampirkan untuk bukti bayar.
 

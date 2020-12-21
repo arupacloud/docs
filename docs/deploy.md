@@ -2,20 +2,36 @@
 
 Similar to [GitBook](https://www.gitbook.com), you can deploy files to GitHub Pages, GitLab Pages or VPS.
 
-## GitHub Pages
+## Backup cPanel/WHM ke Object Storage
 
-There're three places to populate your docs for your Github repository:
+!> Sebelum melakukan aktifitas ini pastikan telah melakukan pembuatan Bucket terlebih dahulu
 
-- `docs/` folder
-- master branch
-- gh-pages branch
+1. Login kedalam WHM lalu menuju ke Menu :
 
-It is recommended that you save your files to the `./docs` subfolder of the `master` branch of your repository. Then select `master branch /docs folder` as your Github Pages source in your repositories' settings page.
+Backup > Backup Configuration
 
-![github pages](_images/deploy-github-pages.png)
+2. Selanjutnya masuk kedalam tab 
 
-!> You can also save files in the root directory and select `master branch`.
-You'll need to place a `.nojekyll` file in the deploy location (such as `/docs` or the gh-pages branch)
+Additional Destination > Destination Type > Pilih S3 Compatible > Create a New Destination
+
+3. Dapat mengisikan konfigurasi seperti berikut : 
+
+Destination Name : <Dapat diisikan nama backup> 
+
+Folder : <Dapat diisikan nama folder yang berada dalam bucket Arupa Object Storage>  
+
+S3 Endpoint : <Dapat diisi hostname endpoint Arupa Object Storage> 
+
+Bucket : <Dapat diisikan bucket yang sebelum telah terdapat pada Object Storage> 
+
+Access Key ID : <Dapat diisikan Access Key yang diberikan> 
+
+Secret Access Key :  < Dapat diisikan Secret Access Key yang diberikan> 
+
+4. Silahkan klik "Save Destination" setelah itu dapat mengklik tombol "Validate"
+
+5. Setelah melakukan proses validasi akan muncul simbol "Checked" pada konfigurasi backup
+
 
 ## GitLab Pages
 
